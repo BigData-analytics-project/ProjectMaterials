@@ -2,3 +2,7 @@ Analysis of a Campus-Wide Wireless Network by David kotz:
 
 http://www.cs.odu.edu/~nadeem/classes/cs795-WNS-S13/papers/enter-012.pdf
 
+Bunch of publications from MIT :
+
+http://senseable.mit.edu/papers/publications.html
+
